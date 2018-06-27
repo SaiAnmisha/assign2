@@ -2,9 +2,10 @@
 
 @media only screen
 
-and (min-device-width : 320px)
+and (min-device-width : 318px)
 
-and (max-device-width : 480px) {
+and (max-device-width : 480px)
+{
 
 /* Styles */
 
@@ -43,8 +44,6 @@ and (max-width : 320px) {
 and (min-device-width : 768px)
 
 and (max-device-width : 1024px) {
-
-/* Styles */
 
 }
 
@@ -86,7 +85,8 @@ and (orientation : portrait) {
 
 @media only screen
 
-and (min-width : 1224px) {
+and (min-width : 1224px) 
+{
 
 /* Styles */
 

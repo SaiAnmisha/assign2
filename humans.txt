@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    stack route
+
+# THANKS
+
+    sai anmisha
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3,bootstrap

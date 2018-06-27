@@ -1,0 +1,11 @@
+# www.robotstxt.org/
+
+# TEAM
+
+    stack route
+
+# THANKS
+
+    sai anmisha
+
+#User-agent: visual studio code 
